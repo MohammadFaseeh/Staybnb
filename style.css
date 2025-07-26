@@ -311,7 +311,9 @@ nav .fa-bars {
     overflow: hidden;
     transition: max-height 0.5s;
   }
-
+    nav .nav-links {
+    display: block;
+  }
   nav .nav-links li {
     margin: 10px 0;
     display: block;
